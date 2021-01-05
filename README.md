@@ -1,5 +1,6 @@
 # Johnatan Carlos :man_technologist:
 
+![Github visitors](https://komarev.com/ghpvc/?username=JohnatanCarlos&color=4CA143&style=flat-square)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnatan-carlos/)](https://www.linkedin.com/in/johnatan-carlos/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581996673764&text=Ol%C3%A1%20Johnatan%2C%20tudo%20bem%3F%20venho%20atrav%C3%A9s%20do%20seu%20portf%C3%B3lio%20para%20conversarmos%2C%20est%C3%A1%20dispon%C3%ADvel%3F)](https://api.whatsapp.com/send?phone=5581996673764&text=Ol%C3%A1%20Johnatan%2C%20tudo%20bem%3F%20venho%20atrav%C3%A9s%20do%20seu%20portf%C3%B3lio%20para%20conversarmos%2C%20est%C3%A1%20dispon%C3%ADvel%3F)
 
