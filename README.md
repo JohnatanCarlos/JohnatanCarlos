@@ -1,7 +1,7 @@
 # Johnatan Carlos 👨‍💻
   ## 👋Olá!
   👨‍💻 Analista e desenvolvedor de sistemas.</br>
-  🎯 Estou altamente focado em desenvolvimento de sistemas web utilizando Angular no Front-End e buscando aprender a construir aplicações Full-Stack utiliando .NET Core junto com SQL Serve.</br>
+  🎯 Estou altamente focado em desenvolvimento de sistemas web utilizando Angular no Front-End e buscando aprender a construir aplicações Full-Stack utiliando </br>
 
  </br>
   
@@ -20,7 +20,6 @@
     <img align="center" alt="Johnatan-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
     <img align="center" alt="Johnatan-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
     <img align="center" alt="Johnatan-Sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-    <img align="center" alt="Johnatan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Johnatan-npm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
     <img align="center" alt="Johnatan-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   </div>
