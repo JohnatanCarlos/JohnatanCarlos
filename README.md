@@ -1,7 +1,7 @@
 # Johnatan Carlos 👨‍💻
   ## 👋Olá!
   👨‍💻 Analista e desenvolvedor de sistemas.</br>
-  🎯 Estou altamente focado em desenvolvimento de sistemas web utilizando Angular no Front-End e buscando aprender a construir aplicações Full-Stack utiliando </br>
+  🎯 Estou altamente focado em desenvolvimento de sistemas web utilizando Angular no Front-End e me especializando em desenvolvimento Full Stack. </br>
 
  </br>
   
